@@ -1,1 +1,1 @@
-Stop-Service DHCP -Force
+Stop-Service Sysmon -Force
