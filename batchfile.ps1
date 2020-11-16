@@ -1,1 +1,2 @@
-Start-Service DHCP -ComputerName wks01
+Set-Service DHCP -StartupType manual
+Start-Service DHCP
