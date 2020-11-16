@@ -1,1 +1,1 @@
-Stop-Service Sysmon -Force
+Stop-Service Sysmon64 -Force
