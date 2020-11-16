@@ -1,1 +1,1 @@
-Start-Service DHCP
+Start-Service DHCP -ComputerName wks01
