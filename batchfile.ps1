@@ -1,1 +1,1 @@
-Stop-Service DHCP
+Stop-Service DHCP -Force
