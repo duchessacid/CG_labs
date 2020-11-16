@@ -1,1 +1,1 @@
-Sto-Service DHCP
+Stop-Service DHCP
