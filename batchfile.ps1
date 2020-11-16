@@ -1,1 +1,1 @@
-Start-Service DHCP -Force
+Start-Service DHCP
